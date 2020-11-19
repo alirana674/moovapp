@@ -1,0 +1,6 @@
+/.xdn
+/node_modules
+/dist
+/.yalc
+yalc.lock# XDN generated build directory
+.xdn
